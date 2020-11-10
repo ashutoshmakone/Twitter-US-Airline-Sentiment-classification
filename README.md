@@ -13,11 +13,11 @@ Suitable Exploratory Data Analysis has been done followed by modeling as follows
 
 Different techniques has given different recall values as follows
 
-Naive Bayes with BOW = 0.75274
-Naive Bayes with TFIDF = 0.7556
-Naive Bayes with Word2Vec = 0.8061
-NB with TFIDF weighted Word2Vec = 0.78127
-Embedding layer in Keras = 0.865
-Embedding layer with pretrained glove vectors = 0.907
+1. Naive Bayes with BOW = 0.75274
+2. Naive Bayes with TFIDF = 0.7556
+3. Naive Bayes with Word2Vec = 0.8061
+4. NB with TFIDF weighted Word2Vec = 0.78127
+5. Embedding layer in Keras = 0.865
+6. Embedding layer with pretrained glove vectors = 0.907
 
 Please follow along.......
